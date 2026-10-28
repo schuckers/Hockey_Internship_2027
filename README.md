@@ -21,7 +21,9 @@ We value originality and creativity in these proposals, so the example below of 
 
 ### Prospect Evaluation
  Projects in this area focus on what we can learn about draft prospects, both before and after the draft. Previous work in this area has largely focused on the pre-draft period, predicting who will play in the NHL or where a player will be drafted. We are especially interested in what happens after the draft, and proposals that explore post-draft trends are encouraged.
-Example questions:
+
+Example questions/topics:
+
 - Before the draft
 
   - Are there skills and traits, whether in statistics or scouting report evaluations, that are predictive of NHL success?
@@ -37,7 +39,9 @@ Example questions:
 ### Transactions
 For this focus area, students will be provided with a list of all NHL transactions (trades, contract signings, waiver claims, etc.), along with contractual data and basic biographical and statistical information. Work should center on one question: how does the NHL market value its assets, and what causes that value to change?
 An “asset” can be a current player, a prospect, a draft pick, or cap space. Because these are so different, a strong proposal will start by defining a market value metric that puts them on a common scale. How you build that metric is part of the project, and you should justify your choice.
-Example questions:
+
+Example questions/topics:
+
 - Valuing a player
   
   - What is the market value of a player given his position, age, experience, current-season and career statistics, and contract?

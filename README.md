@@ -65,7 +65,7 @@ As part of the application, students will have to provide some information about
 
 Short Zoom or in-person interviews (15-20 minutes) may be conducted for a group of finalists.  A maximum of 5 students will be selected for this remote internship.   The remote internship will be open both to graduate and undergraduate students.
 
-Here is the link to the application form: [<https://forms.gle/avDoqyjaiyjsiUKY7>].
+Here is the link to the application form: [<https://forms.gle/MzNzQ9B7iFLRRB819>].
 
 
 ## Prizes

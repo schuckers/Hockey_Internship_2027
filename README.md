@@ -1,6 +1,6 @@
 # Hockey_Remove_Internship_2027
 
-﻿### Spring 2027 Hockey Research Remote Internship
+## Spring 2027 Hockey Research Remote Internship
 
 This page provides information about an *unpaid* research remote internship for the Spring 2027 semester at the University of North Carolina at Charlotte.  
 The remote internship is sponsored by the [Los Angeles Kings](https://www.nhl.com/kings/). 
